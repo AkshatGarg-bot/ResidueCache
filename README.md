@@ -13,6 +13,6 @@ How to Run ?
 **3)**	**Input :-** numberOfFiles file1.trace file2.trace …filen.trace.
                 For Example :– 
                 
-                2 sha_new.trace Basicmath_new.trace
+    2 sha_new.trace Basicmath_new.trace
 
 **4)**	**Output:-** Output is generated in Results.txt file.
