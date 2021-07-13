@@ -2,7 +2,7 @@
 
 Note:- First decompress all the trace files before running the program
 
-Input :- Enter the number of files for which you want to run the code and then enter the file names separated by space.
+Input :- Enter the number of files for which you want to run the code and then enter the file names separated by space(Enter everything in the same line).
 
 Example:- 2 1.trace 2.trace
 
