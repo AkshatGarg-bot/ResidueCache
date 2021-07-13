@@ -8,6 +8,7 @@ How to Run ?
 
     javac *.java
 
+
     java Residue
 
 **3)**	**Input :-** numberOfFiles file1.trace file2.trace …filen.trace.
