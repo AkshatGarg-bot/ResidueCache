@@ -11,7 +11,6 @@ How to Run ?
                 •	java Residue
 
 **3)**	**Input :-** numberOfFiles file1.trace file2.trace …filen.trace
-
                 Ex :– 
                 
                 2 sha_new.trace Basicmath_new.trace
