@@ -6,9 +6,9 @@ How to Run ?
 
 **2)**	**Commands to run -** 
 
-                •	javac *.java
+               	javac *.java
                   
-                •	java Residue
+                java Residue
 
 **3)**	**Input :-** numberOfFiles file1.trace file2.trace …filen.trace.
                 For Example :– 
