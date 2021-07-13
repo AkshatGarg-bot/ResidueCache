@@ -17,4 +17,4 @@ How to Run ?
                 
     2 sha_new.trace Basicmath_new.trace
 
-**5)**	**Output:-** Output is generated in Results.txt file.
+**5)**	**Output:-** Output is generated in **Results.txt** file.
