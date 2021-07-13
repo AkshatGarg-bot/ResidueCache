@@ -1,14 +1,13 @@
 # ResidueCache
 
-Note:- First decompress all the trace files before running the program
+How to Run ? 
 
-Input :- Enter the number of files for which you want to run the code and then enter the file names separated by space(Enter everything in the same line).
+**1)**	Decompress the trace files (provided in trace_files) , on which you want to run . Or if it is user provided trace file , place it in trace_files directory .
+**2)**	**Commands to run -**  
+                •	javac *.java
+                •	java Residue
 
-Example:- 2 1.trace 2.trace
+**3)**	**Input :-** numberOfFiles file1.trace file2.trace …filen.trace
+                Ex – 2 sha_new.trace Basicmath_new.trace
 
-Output:-
-The output will be stored in a Results.txt file in the same folder.
-
-Commands to run the code:-
-Complile:- javac *.java
-Run :- java Residue
+**4)**	**Output:-** Output is generated in Results.txt file.
