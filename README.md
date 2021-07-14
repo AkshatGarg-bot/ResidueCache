@@ -1,4 +1,7 @@
 # ResidueCache
+**A low-energy low-area L2 cache architecture via compression and partial hits.**
+
+This is the implementation of residue cache architecture described in https://ieeexplore.ieee.org/document/7851491 (.pdf also attached below).
 
 How to Run ? 
 
