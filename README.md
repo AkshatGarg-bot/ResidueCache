@@ -3,7 +3,7 @@
 
 This is the implementation of residue cache architecture described in https://ieeexplore.ieee.org/document/7851491 (.pdf also attached below).
 
-How to Run ? 
+**How to Run ?** 
 
 **1)**	Decompress the trace files (provided in trace_files) , on which you want to run . Or if it is user provided trace file , place it in trace_files directory.
 
